@@ -1,3 +1,9 @@
+"""*********************************************************************************************************************
+*    Title: Porovnanie metód a nástrojov na rozpoznávanie rukopisov: Shougao
+*    Author: Martin Domorák, Jaroslav Ďurfina, Mátyás Kiss, Patrik Majtán, Martin Michale, Tomáš Štrba, Patrícia Török
+*    Date: 7. 2. 2022
+*    Code version: 2.0
+*********************************************************************************************************************"""
 import os
 import tkinter as tk
 from tkinter import filedialog, ttk, StringVar
