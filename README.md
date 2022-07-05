@@ -5,7 +5,7 @@ Slovenská technická univerzita v Bratislave - Fakulta elektrotechniky a inform
 ## Súhrn
 **Študíjny program:** Aplikovaná informatika
 
-**Autor:** Filip Mikuš
+**Autor:** Bc. Filip Mikuš
 
 **Bakalárska práca:** Porovnanie metód umelej inteligencie na rozpoznávanie rukou písaných číslic
 
@@ -27,7 +27,7 @@ Slovak University of Technology in Bratislava - Faculty of Electrical Engineerin
 ## Abstract
 **Study Programme:** Applied Informatics
 
-**Author:** Filip Mikuš
+**Author:** Bc. Filip Mikuš
 
 **Bachelor’s thesis:** Comparison of artificial intelligence methods for handwritten number recognition
 
